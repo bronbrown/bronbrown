@@ -13,8 +13,9 @@ My academic and project experiences have introduced me to data processing, machi
 - **Degree:** Bachelor's Degree in Information Systems
 - **University:** Universitas Widya Dharma Pontianak
 - **GPA:** 3.93 / 4.00
+- **Graduation:** Completed my bachelor's degree in 3.5 years
 - **Location:** Pontianak, West Kalimantan, Indonesia
-- **Research:** First author of a conference paper on a GUI-based stroke risk prediction decision support system, published in the ICIMCIS 2025 proceedings and listed in Scopus.
+- **Research:** First author of a conference paper on a GUI-based stroke risk prediction decision support system published in the ICIMCIS 2025 proceedings and listed in Scopus.
 
 ---
 
@@ -31,31 +32,44 @@ My academic and project experiences have introduced me to data processing, machi
 
 ## 🛠️ Technical Skills
 
-**Programming & Application Development**
-- MATLAB
-- PHP
-- Laravel
-- JavaScript
+### Programming Languages & Frameworks
 
-**Database**
-- MySQL
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Data & Machine Learning**
-- Data preprocessing
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Design & Development Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Data Analysis & Machine Learning
+
+- Data preprocessing and data preparation
 - Classification model evaluation
 - Gradient Boosting
 - DPB-SMOTE
-- Performance metrics: accuracy, precision, recall, and F1-score
+- Model performance evaluation using accuracy, precision, recall, and F1-score
 
-**Tools**
-- Figma
-- Git & GitHub
+### Application Development & Testing
+
+- MATLAB GUI development
+- Web application development
+- Patient record management
+- Black-box testing
+- Database management
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🩺 GUI-Based Decision Support System for Stroke Risk Prediction
+### 🩺 1. GUI-Based Decision Support System for Stroke Risk Prediction
 
 A MATLAB-based graphical user interface developed to support stroke risk prediction using machine learning.
 
@@ -71,12 +85,12 @@ A MATLAB-based graphical user interface developed to support stroke risk predict
 **Research Paper:**  
 [Development of a GUI-Based Decision Support System for Stroke Risk Prediction Using DPB-SMOTE and Gradient Boost](https://doi.org/10.1109/ICIMCIS68501.2025.11327233)
 
-**Publication Record:**  
-[View on Scopus](https://www.scopus.com/pages/publications/105034940440)
+**Scopus Record:**  
+[View Document Details on Scopus](https://www.scopus.com/pages/publications/105034940440)
 
 ---
 
-### 📊 SAW-Based Decision Support System
+### 📊 2. SAW-Based Decision Support System
 
 A decision support system project applying the Simple Additive Weighting (SAW) method to support decision-making based on multiple criteria.
 
@@ -87,7 +101,7 @@ A decision support system project applying the Simple Additive Weighting (SAW) m
 
 ---
 
-### 🏫 School Information System
+### 🏫 3. School Information System
 
 An information system project designed to support school management workflows.
 
@@ -98,7 +112,7 @@ An information system project designed to support school management workflows.
 
 ---
 
-### 📅 Automated High School Subject Scheduling System Using Fuzzy Logic
+### 📅 4. Automated High School Subject Scheduling System Using Fuzzy Logic
 
 A project designed to support subject scheduling at SMAN 2 Samalantan using fuzzy logic.
 
@@ -113,7 +127,7 @@ A project designed to support subject scheduling at SMAN 2 Samalantan using fuzz
 
 ## 📄 Publication
 
-**Development of a GUI-Based Decision Support System for Stroke Risk Prediction Using DPB-SMOTE and Gradient Boost**
+### Development of a GUI-Based Decision Support System for Stroke Risk Prediction Using DPB-SMOTE and Gradient Boost
 
 **Authors:** Veronika Pertiwi Septiana, Genrawan Hoendarto, and Amok Darmianto
 
@@ -122,6 +136,7 @@ A project designed to support subject scheduling at SMAN 2 Samalantan using fuzz
 **Publication Details**
 - **Year:** 2025
 - **Pages:** 457–462
+- **Document Type:** Conference Paper
 - **Indexing Record:** Scopus
 - **Scopus EID:** `2-s2.0-105034940440`
 - **DOI:** [10.1109/ICIMCIS68501.2025.11327233](https://doi.org/10.1109/ICIMCIS68501.2025.11327233)
@@ -131,11 +146,11 @@ A project designed to support subject scheduling at SMAN 2 Samalantan using fuzz
 
 ## 📫 Connect with Me
 
-- **GitHub:** [@bronbrown](https://github.com/bronbrown)
-- **LinkedIn:** [Veronika Pertiwi Septiana](https://www.linkedin.com/in/veronika-pertiwi-septiana-1a39182b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-bronbrown-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bronbrown)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veronika%20Pertiwi%20Septiana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronika-pertiwi-septiana-1a39182b8/)
 
 ---
 
 <p align="center">
-  <i>Interested in turning data into insights and building solutions that support better decisions.</i>
+  <i>Turning data into insights and building solutions that support better decisions.</i>
 </p>
